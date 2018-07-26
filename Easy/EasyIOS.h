@@ -13,7 +13,6 @@
 #import "SceneCollectionView.h"
 #import "SceneScrollView.h"
 #import "SceneTableView.h"
-#import "DialogUtil.h"
 #import "Request.h"
 #import "UIScrollView+CoverView.h"
 #import "TMCache.h"
